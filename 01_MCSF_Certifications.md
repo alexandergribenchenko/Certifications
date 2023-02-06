@@ -1,8 +1,6 @@
 # MCSF Certifications
 
-- ** (Microsoft Certified: Azure Data Scientist Asociate): Exam - DP 100 :** Designing and Implementing a Data Science Solution on Azure. 
-
-| Syntax      | Description |
+| CERTIFICATION EXAM     | ASSOCIATE CERTIFICATION |
 | ----------- | ----------- |
-| Header      | Title       |
+| DP-100: Designing and Implementing a Data Science Solution on Azure      | Microsoft Certified: Azure Data Scientist Associate       |
 | Paragraph   | Text        |
